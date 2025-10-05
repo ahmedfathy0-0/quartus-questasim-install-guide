@@ -145,4 +145,3 @@ You need a **license file (`license.dat` or `LR-xxxxx_License`)**.
   vsim
   ```
   to confirm the license works.
->>>>>>> 11d7d24 (README)
